@@ -53,7 +53,7 @@ The goal of this project is to visualize how various factors — such as job tit
 ## 👨‍💻 Author
 **Sathvik S**  
 📍 BMS College of Engineering, Bengaluru  
-📧 [sathvik.y01@gmail.com](mailto:sathvik.y01@gmail.com)
+📧 sathviks.ec22@bmsce.ac.in
 
 ---
 
