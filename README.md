@@ -32,7 +32,7 @@ The goal of this project is to visualize how various factors — such as job tit
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+https://github.com/Sathvik-S-107/PowerBI_FinalProject/blob/main/Dashboard.png?raw=true
 
 ---
 
